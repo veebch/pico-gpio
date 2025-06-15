@@ -4,4 +4,4 @@ A simplified diagram showing the GPIO mappings on a Raspberry Pi Pico. Colours c
 
 If you need to look up more mappings (ADC, SPI, I2C) then https://picow.pinout.xyz/ or the [Pico Documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) has what you need. Dark/light mode comparison [here](https://files.veeb.ch/raspberry-pi-pico-gpio-pinout.html).
 
-![GPIO diagram](pico-gpio-printout.webp). 
+![GPIO diagram](pico-gpio-printout.webp)
